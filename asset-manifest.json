@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/poetry/static/js/main.ed880961.js",
+    "static/js/787.d606f4c2.chunk.js": "/poetry/static/js/787.d606f4c2.chunk.js",
+    "index.html": "/poetry/index.html",
+    "main.ed880961.js.map": "/poetry/static/js/main.ed880961.js.map",
+    "787.d606f4c2.chunk.js.map": "/poetry/static/js/787.d606f4c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ed880961.js"
+  ]
+}
